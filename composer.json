@@ -1,5 +1,6 @@
 {
     "name": "ant-hill/c-tttt",
+    "type": "symfony-bundle",
     "description": "some description",
     "keywords": ["api", "http"],
     "license": "MIT",
