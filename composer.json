@@ -1,0 +1,19 @@
+{
+    "name": "ant-hill/c-tttt",
+    "description": "some description",
+    "keywords": ["api", "http"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ttt",
+            "email": "anthill@gmx.com"
+        }
+    ],
+    "require": {
+        "symfony/framework-bundle": "2.5.*",
+        "misd/guzzle-bundle": "1.1.*@dev"
+    },
+    "minimum-stability": "dev",
+    "target-dir": "ant-hill/c-tttt"
+}
+
